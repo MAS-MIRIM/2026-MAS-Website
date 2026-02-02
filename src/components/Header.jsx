@@ -4,7 +4,7 @@ import NavElements from "./NavElements";
 import SocialLinks from "./SocialLinks";
 import Apply from "./Apply";
 
-let navItems = ["VISON", "PRIZE", "MEMBERS", "PROJECTS", "Q&A"];
+const navItems = ["VISON", "PRIZE", "MEMBERS", "PROJECTS", "Q&A"];
 
 function Header() {
   return (
