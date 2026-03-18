@@ -7,10 +7,6 @@
   src: url("/fonts/Pretendard/Pretendard-Medium.otf");
 }
 
-body {
-  background: black;
-}
-
 #members {
   padding-top: 8rem;
   padding-bottom: 7rem;
